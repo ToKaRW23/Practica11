@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+
+# Файлы сборки
+target/
+
+# Система
+.DS_Store
+Thumbs.db
+
+# Рекорды — не коммитим реальные данные (или закоммить пустой файл)
+# records.txt
